@@ -22,7 +22,7 @@ Every day, thousands of misconfigured services are left open to the Internet, of
 
 **Exposure of the day:** One of tens of thousands of exposed Ollama (AI) servers
 
-
+<VIDEO WILL BE HERE SHORTLY>
 
 In this short demo, we discover a publicly accessible Ollama server on the Internet and connect to it. 
 
