@@ -24,7 +24,9 @@ Every day, thousands of misconfigured services are left open to the Internet, of
 
 https://github.com/user-attachments/assets/57fc9f66-c8c4-4481-bf1c-4d83e10804fa
 
-In this short demo, we discover a publicly accessible Ollama server on the Internet and connect to it. No authentication, no firewall, full model access.
+In this short demo, we discover a publicly accessible Ollama server on the Internet and connect to it. 
+
+No authentication, no firewall, full model access.
 
 > This server was identified using publicly accessible data and standard OSINT techniques via **Vulnebify**.  
 > No authentication was bypassed, no systems were exploited, and no private content was accessed.  
