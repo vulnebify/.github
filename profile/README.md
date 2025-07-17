@@ -22,15 +22,15 @@ Every day, thousands of misconfigured services are left open to the Internet, of
 
 **Exposure of the day:** One of tens of thousands of exposed Ollama (AI) servers
 
-VIDEO WILL BE HERE SHORTLY
+https://github.com/user-attachments/assets/3289e882-11bf-42fe-8515-714cfd3fc3f2
 
-In this short demo, we discover a publicly accessible Ollama server on the Internet and connect to it. 
+In this short demo, we discover a publicly accessible Ollama server on the Internet and connect to it. No authentication, no firewall, full model access.
 
-No authentication, no firewall, full model access.
-
-> This server was found during a passive scan of exposed Ollama instances.  
-> It had no authentication and allowed anyone to connect and run LLM queries.  
-> We anonymized all identifying information for responsible disclosure.
+> This server was identified using publicly accessible data and standard OSINT techniques via **Vulnebify**.  
+> No authentication was bypassed, no systems were exploited, and no private content was accessed.  
+>  
+> The disclosure aligns with international humanitarian law *(Hague Regulations, Art. 24; Geneva Protocol I, Art. 57)*,  
+> which permits and encourages reconnaissance and transparency regarding hostile infrastructure during armed conflict.
 
 🚨 If it's on the Internet, it's already being scanned. Often by bad actors.
 
