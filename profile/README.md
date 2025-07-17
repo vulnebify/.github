@@ -1,4 +1,4 @@
-# 🛡️ What is Vulnebify?
+# What is Vulnebify?
 
 Vulnebify is a Ukraine-based cybersecurity company focused on one mission: **to help organizations discover and monitor their public attack surface before attackers do.**
 
@@ -6,7 +6,7 @@ We provide tools and APIs to scan domains, IPs, and infrastructure revealing mis
 
 Whether you're a red teamer, blue teamer, or just security-conscious, Vulnebify gives you a fast, ethical, and developer-friendly way to see what the Internet sees.
 
-⚔️ Battle-tested. Built from the front lines of real-world Internet exposure.
+Battle-tested. Built from the front lines of real-world Internet exposure.
 
 ---
 
@@ -16,7 +16,7 @@ Whether you're a red teamer, blue teamer, or just security-conscious, Vulnebify 
 
 ✅ No noise. No spam. Just visibility.
 
-# 🌐 Know what you’re exposing
+# Know what you’re exposing
 
 Every day, thousands of misconfigured services are left open to the Internet, often unknowingly.
 
