@@ -22,7 +22,7 @@ Every day, thousands of misconfigured services are left open to the Internet, of
 
 **Exposure of the day:** One of tens of thousands of exposed Ollama (AI) servers
 
-https://github.com/user-attachments/assets/3289e882-11bf-42fe-8515-714cfd3fc3f2
+https://github.com/user-attachments/assets/57fc9f66-c8c4-4481-bf1c-4d83e10804fa
 
 In this short demo, we discover a publicly accessible Ollama server on the Internet and connect to it. No authentication, no firewall, full model access.
 
