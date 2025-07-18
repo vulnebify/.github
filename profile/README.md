@@ -28,7 +28,8 @@ In this short demo, we discover a publicly accessible Ollama server on the Inter
 
 No authentication, no firewall, full model access.
 
-> This server was identified using publicly accessible data and standard OSINT techniques via **Vulnebify**.  
+> This server was identified using publicly accessible data and standard OSINT techniques via **Vulnebify**.
+> 
 > No authentication was bypassed, no systems were exploited, and no private content was accessed.  
 >  
 > The disclosure aligns with international humanitarian law *(Hague Regulations, Art. 24; Geneva Protocol I, Art. 57)*,  
