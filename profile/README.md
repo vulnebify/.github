@@ -2,7 +2,7 @@
 
 Vulnebify helps organizations turn Internet exposure into actionable threat intelligence before attackers do.
 
-We provide safe, low-noise tools and APIs to continuously check domains, IPs, and infrastructure, revealing exposed services, misconfigurations, and risky assets exactly as attackers see them.
+We provide safe, low-noise tools and APIs to continuously check domains, IPs, and infrastructure, revealing exposed services, misconfigurations, and risky assets exactly as they appear on the public Internet.
 
 Built for threat intelligence teams, red teams, blue teams, and security-focused developers.
 
