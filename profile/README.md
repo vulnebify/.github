@@ -1,11 +1,11 @@
 # What is Vulnebify?
 
-Vulnebify helps organizations discover and monitor their public attack surface before attackers do.
+Vulnebify helps organizations turn Internet exposure into actionable threat intelligence before attackers do.
 
-We provide safe, low-noise tools and APIs to scan domains, IPs, and infrastructure for exposed services, misconfigurations, and risky assets, exactly as the Internet sees them.
+We provide safe, low-noise tools and APIs to continuously observe domains, IPs, and infrastructure, revealing exposed services, misconfigurations, and risky assets exactly as attackers see them.
 
-Built for red teams, blue teams, and security-focused developers.
+Built for threat intelligence teams, red teams, blue teams, and security-focused developers.
 
-If it’s online, it’s already being scanned.
+If it’s online, it’s already being profiled.
 
 ➡️ [Explore Vulnebify](https://vulnebify.com)
