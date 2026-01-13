@@ -1,6 +1,6 @@
 # What is Vulnebify?
 
-Vulnebify helps organizations turn Internet exposure into actionable threat intelligence before attackers do.
+Vulnebify applies geopolitical threat intelligence, shaped by frontline cyber warfare experience in Ukraine, to help organizations and countries detect, validate, and act on real cyber threats.
 
 We provide safe, low-noise tools and APIs to continuously check domains, IPs, and infrastructure, revealing exposed services, misconfigurations, and risky assets exactly as they appear on the public Internet.
 
