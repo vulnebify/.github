@@ -1,8 +1,11 @@
 # What is Vulnebify?
 
-**Vulnebify** applies geopolitical threat intelligence to help organizations and countries detect, validate, and act on real cyber threats shaped by cyber warfare experience in Ukraine.
+**Vulnebify** is a cybersecurity company focused on helping organizations understand how attackers discover and target their external infrastructure.
 
-The platform discovers external infrastructure, deploys decoy replicas in high-risk regions, and alerts teams to relevant validated threats.
+Our approach is built by experience gained during real-world cyber operations in active conflict environments around the world.
+
+Our web-platform creates an isolated replica of your external attack surface where real attackers interact with realistic decoys. 
+This allows us to observe attacker behavior and intent with zero impact on production systems.
 
 Built for threat intelligence teams, red and blue teams, and security-focused developers in highly regulated environments, Vulnebify helps reduce risk by exposing attacker behavior early.
 
