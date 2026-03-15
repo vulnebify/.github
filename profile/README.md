@@ -9,6 +9,6 @@ This allows us to observe attacker behavior and intent with zero impact on produ
 
 Built for threat intelligence teams, red and blue teams, and security-focused developers in highly regulated environments, Vulnebify helps reduce risk by exposing attacker behavior early.
 
-If it’s online, it’s already being profiled.
+**If it’s online, it’s already being profiled.**
 
 ➡️ [Explore Vulnebify](https://vulnebify.com)
